@@ -19,11 +19,11 @@
   <p class="text" style="color: yellow;">Exam Test</p>
 </div>
 ```
-Based on CSS specificity and rules, what color will the text "Exam Test" appear as?
-A. Red
-B. Blue
-C. Green
-D. Yellow
+Based on CSS specificity and rules, what color will the text "Exam Test" appear as?  <br>
+A. Red <br>
+B. Blue <br>
+C. Green <br>
+D. Yellow <br>
 
 ### Question 2
 ```css
@@ -34,11 +34,11 @@ D. Yellow
   margin: 10px; 
 }
 ```
-Assuming the default browser behavior (`box-sizing: content-box`), what is the total horizontal pixel width this element occupies on the screen (including its margins)?
-A. 200px
-B. 220px
-C. 230px
-D. 250px
+Assuming the default browser behavior (`box-sizing: content-box`), what is the total horizontal pixel width this element occupies on the screen (including its margins)?  <br>
+A. 200px <br>
+B. 220px <br>
+C. 230px <br>
+D. 250px <br>
 
 ### Question 3
 ```javascript
@@ -46,11 +46,11 @@ let x = "5" + 2 + 3;
 let y = 5 + 2 + "3";
 console.log(x, y);
 ```
-What will be traced in the console?
-A. "55", "73"
-B. "523", "73"
-C. "10", "10"
-D. 10, 10
+What will be traced in the console?  <br>
+A. "55", "73" <br>
+B. "523", "73" <br>
+C. "10", "10" <br>
+D. 10, 10 <br>
 
 ### Question 4
 ```javascript
@@ -62,11 +62,11 @@ for(let i = 0; i < 5; i++) {
 }
 console.log(counter);
 ```
-Select the correct output value for `counter`.
-A. 1
-B. 3
-C. 4
-D. 6
+Select the correct output value for `counter`.  <br>
+A. 1 <br>
+B. 3 <br>
+C. 4 <br>
+D. 6 <br>
 
 ### Question 5
 ```javascript
@@ -75,11 +75,11 @@ for(let i = 0; i < items.length; i++) {
   items[i].innerHTML = "Value: " + i;
 }
 ```
-If your HTML contains exactly 3 elements with the class `item`, what will be the innerHTML of the second element after this script runs?
-A. Value: 0
-B. Value: 1
-C. Value: 2
-D. Value: 3
+If your HTML contains exactly 3 elements with the class `item`, what will be the innerHTML of the second element after this script runs?  <br>
+A. Value: 0 <br>
+B. Value: 1 <br>
+C. Value: 2 <br>
+D. Value: 3 <br>
 
 ---
 
@@ -90,11 +90,11 @@ arr.push(50);
 arr.shift();
 console.log(arr[1]);
 ```
-What value is printed?
-A. 10
-B. 20
-C. 30
-D. 40
+What value is printed?  <br>
+A. 10 <br>
+B. 20 <br>
+C. 30 <br>
+D. 40 <br>
 
 ### Question 7
 ```css
@@ -102,11 +102,11 @@ div + p {
   background-color: red; 
 }
 ```
-Which HTML element(s) does this selector target?
-A. All `<p>` elements located anywhere inside a `<div>`.
-B. Only the first `<p>` element directly following a `<div>`.
-C. All `<p>` elements that are immediate siblings positioned immediately after any `<div>`.
-D. Both `<div>` and `<p>` elements simultaneously.
+Which HTML element(s) does this selector target?  <br>
+A. All `<p>` elements located anywhere inside a `<div>`. <br>
+B. Only the first `<p>` element directly following a `<div>`. <br>
+C. All `<p>` elements that are immediate siblings positioned immediately after any `<div>`. <br>
+D. Both `<div>` and `<p>` elements simultaneously. <br>
 
 ### Question 8
 ```javascript
@@ -120,11 +120,11 @@ function test() {
 }
 test();
 ```
-What is the correct console output?
-A. 1
-B. 2
-C. undefined
-D. A reference error occurs
+What is the correct console output?  <br>
+A. 1 <br>
+B. 2 <br>
+C. undefined <br>
+D. A reference error occurs <br>
 
 ### Question 9
 ```javascript
@@ -132,11 +132,11 @@ let val1 = (0 == "0");
 let val2 = (0 === "0");
 console.log(val1, val2);
 ```
-What will be output to the console?
-A. true true
-B. false false
-C. false true
-D. true false
+What will be output to the console?  <br>
+A. true true <br>
+B. false false <br>
+C. false true <br>
+D. true false <br>
 
 ### Question 10
 ```html
@@ -148,20 +148,20 @@ D. true false
   console.log(paras.length);
 </script>
 ```
-What will the console output?
-A. 1
-B. 2
-C. 0
-D. Error: .classList is undefined
+What will the console output?  <br>
+A. 1 <br>
+B. 2 <br>
+C. 0 <br>
+D. Error: .classList is undefined <br>
 
 ---
 
 ### Question 11
-What represents the proper method for placing an image on an HTML page so that it acts as a clickable hyperlink?
-A. `<a href="page.html"><img src="logo.jpg"></a>`
-B. `<img href="page.html" src="logo.jpg">`
-C. `<a link="page.html"><img file="logo.jpg"></a>`
-D. `<link href="page.html" image="logo.jpg">`
+What represents the proper method for placing an image on an HTML page so that it acts as a clickable hyperlink?  <br>
+A. `<a href="page.html"><img src="logo.jpg"></a>` <br>
+B. `<img href="page.html" src="logo.jpg">` <br>
+C. `<a link="page.html"><img file="logo.jpg"></a>` <br>
+D. `<link href="page.html" image="logo.jpg">` <br>
 
 ### Question 12
 ```javascript
@@ -171,11 +171,11 @@ while (x < 3) {
 }
 console.log(x);
 ```
-What is printed?
-A. 1
-B. 2
-C. 3
-D. 4
+What is printed?  <br>
+A. 1 <br>
+B. 2 <br>
+C. 3 <br>
+D. 4 <br>
 
 ### Question 13
 ```html
@@ -183,11 +183,11 @@ D. 4
   <span style="color:red; text-decoration:underline;">Click Here</span>
 </a>
 ```
-Visually, how will "Click Here" appear?
-A. Red and without an underline.
-B. Default link blue, but with an underline.
-C. Red and with an underline.
-D. Purple with an underline.
+Visually, how will "Click Here" appear?  <br>
+A. Red and without an underline. <br>
+B. Default link blue, but with an underline. <br>
+C. Red and with an underline. <br>
+D. Purple with an underline. <br>
 
 ### Question 14
 ```javascript
@@ -198,11 +198,11 @@ for(let i = 0; i < nums.length; i++) {
 }
 console.log(result);
 ```
-What value does `result` hold?
-A. 0
-B. 2
-C. 3
-D. 12
+What value does `result` hold?  <br>
+A. 0 <br>
+B. 2 <br>
+C. 3 <br>
+D. 12 <br>
 
 ### Question 15
 ```javascript
@@ -214,20 +214,20 @@ switch(str) {
    default: console.log("Four");
 }
 ```
-What is the console output? (Careful with syntax and casing)
-A. Two
-B. Two, next line Three
-C. One, Two, Three
-D. Four
+What is the console output? (Careful with syntax and casing)  <br>
+A. Two <br>
+B. Two, next line Three <br>
+C. One, Two, Three <br>
+D. Four <br>
 
 ---
 
 ### Question 16
-If you want to create an internal CSS style specifically strictly for an HTML element with the id `"header"`, which character precedes the identifier in the `<style>` block?
-A. `.`
-B. `#`
-C. `*`
-D. `@`
+If you want to create an internal CSS style specifically strictly for an HTML element with the id `"header"`, which character precedes the identifier in the `<style>` block?  <br>
+A. `.` <br>
+B. `#` <br>
+C. `*` <br>
+D. `@` <br>
 
 ### Question 17
 ```javascript
@@ -236,35 +236,35 @@ function greet(name) {
 }
 console.log(greet());
 ```
-What happens when this executes?
-A. "Welcome undefined" is printed.
-B. "Welcome null" is printed.
-C. "Welcome " is printed.
-D. A SyntaxError is thrown because the argument is missing.
+What happens when this executes?  <br>
+A. "Welcome undefined" is printed. <br>
+B. "Welcome null" is printed. <br>
+C. "Welcome " is printed. <br>
+D. A SyntaxError is thrown because the argument is missing. <br>
 
 ### Question 18
-Which JavaScript operator is used to assign a value to a variable, and which checks for strict equality?
-A. `=` assigns, `==` checks strict equality.
-B. `==` assigns, `===` checks strict equality.
-C. `=` assigns, `===` checks strict equality.
-D. `===` assigns, `==` checks strict equality.
+Which JavaScript operator is used to assign a value to a variable, and which checks for strict equality?  <br>
+A. `=` assigns, `==` checks strict equality. <br>
+B. `==` assigns, `===` checks strict equality. <br>
+C. `=` assigns, `===` checks strict equality. <br>
+D. `===` assigns, `==` checks strict equality. <br>
 
 ### Question 19
-If you intend to use JavaScript to alter the visible text content of a `<h2>` tag, but do NOT want any HTML tags within your string to be parsed as code, which property is the safest to manipulate?
-A. `innerHTML`
-B. `textContent`
-C. `value`
-D. `outerHTML`
+If you intend to use JavaScript to alter the visible text content of a `<h2>` tag, but do NOT want any HTML tags within your string to be parsed as code, which property is the safest to manipulate?  <br>
+A. `innerHTML` <br>
+B. `textContent` <br>
+C. `value` <br>
+D. `outerHTML` <br>
 
 ### Question 20
 ```html
 <span style="width: 200px; height: 100px;">Block</span>
 ```
-By default, what are the actual dimensions occupied by this `<span>`?
-A. 200px length by 100px height.
-B. It scales to exactly 100% of the display.
-C. Its dimensions only wrap its interior text size ("Block") ignoring the fixed width/height.
-D. It disappears.
+By default, what are the actual dimensions occupied by this `<span>`?  <br>
+A. 200px length by 100px height. <br>
+B. It scales to exactly 100% of the display. <br>
+C. Its dimensions only wrap its interior text size ("Block") ignoring the fixed width/height. <br>
+D. It disappears. <br>
 
 ---
 
@@ -273,11 +273,11 @@ D. It disappears.
 let nodes = document.getElementsByTagName("p");
 nodes[1].style.color = "blue";
 ```
-What happens if there is only *one* `<p>` element on the webpage?
-A. The single element turns blue.
-B. The script throws an error such as `Cannot read property 'style' of undefined`.
-C. The script fails silently but the page loads.
-D. Multiple `<p>` elements are generated automatically.
+What happens if there is only *one* `<p>` element on the webpage?  <br>
+A. The single element turns blue. <br>
+B. The script throws an error such as `Cannot read property 'style' of undefined`. <br>
+C. The script fails silently but the page loads. <br>
+D. Multiple `<p>` elements are generated automatically. <br>
 
 ### Question 22
 ```html
@@ -289,40 +289,40 @@ D. Multiple `<p>` elements are generated automatically.
   btn.onclick = function() { count += 2; };
 </script>
 ```
-If the user clicks the button once, what is the value of `count`?
-A. 1
-B. 2
-C. 3
-D. Error due to duplicate event assignment.
+If the user clicks the button once, what is the value of `count`?  <br>
+A. 1 <br>
+B. 2 <br>
+C. 3 <br>
+D. Error due to duplicate event assignment. <br>
 
 ### Question 23
-A user is submitting a contact form. Which HTTP method hides the form data from the URL, generally making it more appropriate for sensitive information?
-A. SEND
-B. GET
-C. POST
-D. PUSH
+A user is submitting a contact form. Which HTTP method hides the form data from the URL, generally making it more appropriate for sensitive information?  <br>
+A. SEND <br>
+B. GET <br>
+C. POST <br>
+D. PUSH <br>
 
 ### Question 24
 ```javascript
 let message = "JavaScript";
 console.log(message.length);
 ```
-What is printed?
-A. 9
-B. 10
-C. 11
-D. undefined
+What is printed?  <br>
+A. 9 <br>
+B. 10 <br>
+C. 11 <br>
+D. undefined <br>
 
 ### Question 25
 ```javascript
 let heading = document.querySelector("#main-title");
 heading.style.backgroundColor = "yellow";
 ```
-What must exist in the HTML for this code to work without throwing errors?
-A. `<h1 class="main-title"></h1>`
-B. `<title name="main-title"></title>`
-C. `<div id="main-title"></div>`
-D. `<header>#main-title</header>`
+What must exist in the HTML for this code to work without throwing errors?  <br>
+A. `<h1 class="main-title"></h1>` <br>
+B. `<title name="main-title"></title>` <br>
+C. `<div id="main-title"></div>` <br>
+D. `<header>#main-title</header>` <br>
 
 
 <br><br><br><br>
